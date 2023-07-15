@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://source.unsplash.com/1600x900/?landscape");
+}
+
+.container {
+    background: #000000;
+    opacity: 0.8;
+    padding: 2.5rem;
+    border-radius: 15px;
+    color: white;
+    border: none;
+    border: 1px solid rgb(42, 160, 210);
+    width: 95%;
+    max-width: 450px;
+}
+
+input {
+    outline: none; 
+    padding: 10px;
+    border-radius: 25px;
+    background-color: #7c7c7c2b;
+    border: none;
+    width: calc(100% - 50px);
+    color: white;
+}
+
+input:focus {
+    outline: 1px solid rgb(119, 255, 95);
+    transition: .5s;
+}
+
+.botao-buscar {
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 50px;
+    cursor: pointer;
+    float: right;
+}
+
+.img-buscar {
+    width: 20px;
+}
+
+/*Caixa média*/
+
+.container-medium {
+    margin-top: 30px;
+}
+
+.container-medium h2 {
+    font-size: 26px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.temp {
+    font-size:20px ;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+/*Caixa menor*/
+
+.container-smaller {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.texto-previsao {
+    margin-left: 20px;
+    text-transform: capitalize;
+}
+
+.umi {
+    text-align: center;
+    margin-top: 30px;
+}

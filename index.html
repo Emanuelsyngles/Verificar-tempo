@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/style.css">
+    <title>previsão em tempo real</title>
+</head>
+
+<body>
+    <div class="container">
+        <input class="input-cidade" type="text" placeholder="Digite o nome da cidade">
+        <button class="botao-buscar"><img class="img-buscar" src="https://www.svgrepo.com/show/488200/find.svg"
+                alt="busca" onclick="cliqueiNoBotao()"></button>
+
+        <div class="container-medium">
+            <h2 class="cidade">Pesquise um local</h2>
+            <p class="temp">?°C</p>
+            <div class="container-smaller">
+                <img class="img-previsao" alt="icon-info-time" src="https://openweathermap.org/img/wn/04n.png">
+                <p class="texto-previsao">Tempo indefinido</p>
+            </div>
+            <p class="umi">indefinida</p>
+        </div>
+    </div>
+    <script src="Javascript/script.js"></script>
+</body>
+
+</html>
