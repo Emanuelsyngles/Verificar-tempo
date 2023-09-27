@@ -14,5 +14,4 @@
 
  -[Rodolfo Mori](https://www.youtube.com/watch?v=qxzqEuAOYZ4&t=1s&ab_channel=RodolfoMori)
 
- -(Emanuel syngles)[https://www.linkedin.com/in/emanuel-syngles-464985248/]
-
+ -[Emanuel syngles](https://www.linkedin.com/in/emanuel-syngles-464985248/)
