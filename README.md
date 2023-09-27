@@ -14,6 +14,8 @@
 
  ## Referêcias
 
- -[Rodolfo Mori](https://www.youtube.com/watch?v=qxzqEuAOYZ4&t=1s&ab_channel=RodolfoMori)
+ -[API utilizada](https://openweathermap.org/)
+ 
+## Desenvolvido por
 
  -[Emanuel syngles](https://www.linkedin.com/in/emanuel-syngles-464985248/)
