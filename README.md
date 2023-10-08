@@ -19,3 +19,6 @@
 ## Desenvolvido por
 
  -[Emanuel syngles](https://www.linkedin.com/in/emanuel-syngles-464985248/)
+
+ ## Utilize o projeto clicando aqui: 
+-[Verificar tempo](https://informacoesclimaticasemtemporeal.netlify.app/)
