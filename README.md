@@ -20,5 +20,5 @@
 
  -[Emanuel syngles](https://www.linkedin.com/in/emanuel-syngles-464985248/)
 
- ## Utilize o projeto clicando aqui: 
+ ## Utilize o projeto clicando no link abaixo: 
 -[Verificar tempo](https://informacoesclimaticasemtemporeal.netlify.app/)
