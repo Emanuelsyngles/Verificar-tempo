@@ -7,6 +7,9 @@
  Funciona através da pesquisa na barra, quando você digita o local desejado, se a API conter essa informação ela irá retornar 
  as informações daquele dia como: temperatura, como está o céu e a umidade.
 
+ ## Utilize o projeto clicando no link abaixo: 
+-[Verificar tempo](https://informacoesclimaticasemtemporeal.netlify.app/)
+
  ## Ferramentas 🔧
  - [HTML5](https://html.com/)
  - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -20,5 +23,4 @@
 
  -[Emanuel syngles](https://www.linkedin.com/in/emanuel-syngles-464985248/)
 
- ## Utilize o projeto clicando no link abaixo: 
--[Verificar tempo](https://informacoesclimaticasemtemporeal.netlify.app/)
+
