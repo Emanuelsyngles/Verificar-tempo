@@ -21,6 +21,6 @@
  
 ## Desenvolvido por
 
- -[Emanuel syngles](https://www.linkedin.com/in/emanuel-syngles-464985248/)
+ -[Emanuel syngles](https://www.linkedin.com/in/emanuel-leal/)
 
 
